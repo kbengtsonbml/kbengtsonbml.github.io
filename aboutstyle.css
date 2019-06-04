@@ -59,7 +59,7 @@ img{
 }
 
 .wrapper {
-  height: 3em;
+  height: auto;
   border-bottom: 4px solid rgb(0,0,0);
 }
 
