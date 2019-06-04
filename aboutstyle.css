@@ -56,6 +56,10 @@ img{
   float:left;
 }
 
+.clearfix {
+  overflow: auto;
+}
+
 /*Our special About Us fonts and colors
 https://www.w3schools.com/howto/howto_google_fonts.asp - all google fonts
 search: "color picker" on google                       - choose any color
