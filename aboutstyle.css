@@ -48,7 +48,7 @@ img{
 }
 
 .bio{
-  display: block;
+  display: flex;
   height: auto;
   border-bottom: 4px solid rgb(0,0,0);
 }
