@@ -69,10 +69,7 @@ img{
 }
 
 
-p{
-  padding:10px;
-  color:#0e0816;
-}
+
 
 
 
@@ -137,6 +134,11 @@ search: "color picker" on google                       - choose any color
 .Zoe{
   font-family:'';
   color:#88B8D6;
+}
+
+p{
+  padding:10px;
+  color:#0e0816;
 }
 
 /*↓From here down is just for the navbar↓*/
