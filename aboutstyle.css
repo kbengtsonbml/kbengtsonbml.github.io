@@ -33,11 +33,6 @@ p{
   color:#0e0816;
 }
 
-hr{
-  width:100%;
-  border: 2px ridge #99D3DF;
-}
-
 img{
   padding:10px;
 }
@@ -63,7 +58,7 @@ img{
 
 .wrapper {
   height: auto;
-  border-bottom: 4px solid rgb(0,0,0);
+  border-bottom: 2px ridge #99D3DF;
 }
 
 .wrapper:before,
