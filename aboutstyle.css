@@ -12,6 +12,7 @@ h1 {
 
 h2,h3{
   color:#88B8D6;
+  float: left;
 }
 
 div {
