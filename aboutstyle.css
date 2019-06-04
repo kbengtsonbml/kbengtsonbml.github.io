@@ -44,7 +44,10 @@ img{
 bookimg{
   padding:10px;
   width: 20px;
-  
+}
+
+bio{
+  display:block;
 }
 
 /*Our special About Us fonts and colors
