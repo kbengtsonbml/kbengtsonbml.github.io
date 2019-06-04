@@ -69,7 +69,7 @@ img{
   display: table;
 }
 
-.container:after {
+.wrapper:after {
   clear:both;
 }
 
