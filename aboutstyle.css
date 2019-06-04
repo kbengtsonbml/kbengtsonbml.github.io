@@ -42,10 +42,8 @@ img{
   padding:10px;
 }
 
-.clearfix {
-  overflow: auto;
-  clear: both;
-  display: table;
+.biocontent {
+  float:left;
 }
 
 .bookimg{
@@ -54,18 +52,32 @@ img{
   float: right;
 }
 
+.clearfix {
+  overflow: auto;
+  clear: both;
+  display: table;
+}
+
 .wrapper {
   height: 3em;
+  border-bottom: 4px solid rgb(0,0,0);
+}
+
+.wrapper:before,
+.wrapper:after {
+  content: '';
+  display: table;
+}
+
+.container:after {
+  clear:both;
 }
 
 .bio{
   height: auto;
-  border-bottom: 4px solid rgb(0,0,0);
 }
 
-.biocontent {
-  float:left;
-}
+
 
 
 
