@@ -25,6 +25,7 @@ div.topnav {
 div.content{
   margin: 2em;
   padding-top:20px;
+  height: auto;
 }
 
 p{
