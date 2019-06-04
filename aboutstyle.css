@@ -50,6 +50,7 @@ img{
 .bio{
   display: block;
   height: auto;
+  border-bottom: 4px solid rgb(0,0,0);
 }
 
 /*Our special About Us fonts and colors
