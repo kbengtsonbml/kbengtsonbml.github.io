@@ -50,6 +50,7 @@ img{
 .bookimg{
   padding: 10px;
   width: 200px;
+  display: inline-block;
   float: right;
 }
 
