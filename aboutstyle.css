@@ -44,6 +44,7 @@ img{
 
 .biocontent {
   float:left;
+  height: auto;
 }
 
 .bookimg{
@@ -73,9 +74,7 @@ img{
   clear:both;
 }
 
-.bio{
-  height: auto;
-}
+
 
 
 
