@@ -53,6 +53,10 @@ img{
   border-bottom: 4px solid rgb(0,0,0);
 }
 
+.biocontent {
+  float:left;
+}
+
 /*Our special About Us fonts and colors
 https://www.w3schools.com/howto/howto_google_fonts.asp - all google fonts
 search: "color picker" on google                       - choose any color
